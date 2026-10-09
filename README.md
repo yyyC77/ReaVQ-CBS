@@ -1,4 +1,4 @@
-# Dynamics-informed selective structural routing for cryptic binding sites prediction from apo structures
+# Rearrangement-potential selective structural routing for cryptic binding sites prediction from apo structures
 
 <p align="center">
   <img src="assets/6a98_four_state_same_view_story.png" alt="Molecular-dynamics pocket opening story for the 6A98 case" width="100%" />
